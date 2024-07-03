@@ -33,8 +33,8 @@ To run the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/airbnb-unlisting-prediction.git
-    cd airbnb-unlisting-prediction
+    git clone https://github.com/ShinoNice/NLPs-Forescasting-of-Airbnb-Listing-Status
+    cd NLPs-Forescasting-of-Airbnb-Listing-Status
     ```
 
 2. Install the required packages:
@@ -42,9 +42,9 @@ To run the project, follow these steps:
     pip install -r requirements.txt
     ```
 
-3. Run the Jupyter notebook to see the entire workflow:
+3. Run the main script:
     ```bash
-    jupyter notebook notebooks/final_project_notebook.ipynb
+    python scripts/main.py
     ```
 
 For any questions or further information, feel free to contact me via GitHub.
