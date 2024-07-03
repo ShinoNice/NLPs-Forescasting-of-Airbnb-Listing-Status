@@ -37,14 +37,9 @@ To run the project, follow these steps:
     cd NLPs-Forescasting-of-Airbnb-Listing-Status
     ```
 
-2. Install the required packages:
+2. Run the main script:
     ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the main script:
-    ```bash
-    python scripts/main.py
+    python scripts/NLP_05.ipynb
     ```
 
 For any questions or further information, feel free to contact me via GitHub.
