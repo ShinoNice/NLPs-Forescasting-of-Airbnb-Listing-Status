@@ -26,7 +26,7 @@ The data used for this project is provided in the following files:
 4. **Evaluation**: Assessing the model's performance using appropriate metrics.
 
 ## Results
-The final model's performance and key findings are detailed in the `final_report.pdf` located in the `reports` folder.
+The final model's performance and key findings are detailed in the `Report.pdf`.
 
 ## How to Run
 To run the project, follow these steps:
